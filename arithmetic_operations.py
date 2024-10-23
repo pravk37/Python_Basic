@@ -1,3 +1,4 @@
+#declared two integers a and b with random values and performing arithmetic operations 
 a=7
 b=3
 print(a+b,a-b,a*b,a/b,a%b,a//b,a**b,complex(a,b),sep='\n')
